@@ -1,0 +1,6 @@
+# dependencies
+node_modules/
+
+# plop files
+plopfile.js
+plop-templates/
